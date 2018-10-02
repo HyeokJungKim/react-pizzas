@@ -14,7 +14,6 @@ class PizzaList extends Component {
           </tr>
         </thead>
         <tbody>
-          <Pizza/>
           {
             //render Pizza here
           }

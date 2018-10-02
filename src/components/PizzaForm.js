@@ -10,10 +10,11 @@ const PizzaForm = () => {
               }/>
         </div>
         <div className="col">
-          <input type="text" className="form-control" placeholder="Pizza Size" value={
-              //Pizza Size Should Go Here
-              null
-            }/>
+          <select value={null} className="form-control">
+            <option value="Small">Small</option>
+            <option value="Medium">Medium</option>
+            <option value="Large">Large</option>
+          </select>
         </div>
         <div className="col">
           <div className="form-check">
