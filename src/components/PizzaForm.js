@@ -6,7 +6,7 @@ const PizzaForm = (props) => {
       <div className="form-row">
         <div className="col-5">
             <input type="text" className="form-control" onChange={props.onType} placeholder="Pizza Topping" value={
-                pizza.name
+                pizza.topping
               }/>
         </div>
         <div className="col">

@@ -2,70 +2,70 @@
   "pizzas": [
     {
       "id": 1,
-      "name": "Plain",
+      "topping": "Plain",
       "size": "Small",
       "vegetarian": true,
       "price": 10.99
     },
     {
       "id": 2,
-      "name": "Pepperoni",
+      "topping": "Pepperoni",
       "size": "Small",
       "vegetarian": false,
       "price": 12.34
     },
     {
       "id": 3,
-      "name": "Mushroomy",
+      "topping": "Mushrooms",
       "size": "Large",
       "vegetarian": true,
       "price": 13.37
     },
     {
       "id": 4,
-      "name": "Taco",
+      "topping": "Taco",
       "size": "Large",
       "vegetarian": false,
       "price": 17.91
     },
     {
       "id": 5,
-      "name": "Bacon",
+      "topping": "Bacon",
       "size": "Medium",
       "vegetarian": false,
       "price": 16.21
     },
     {
       "id": 6,
-      "name": "Spinach",
+      "topping": "Spinach",
       "size": "Medium",
       "vegetarian": true,
       "price": 14.23
     },
     {
       "id": 7,
-      "name": "Black Olive",
+      "topping": "Black Olive",
       "size": "Medium",
       "vegetarian": true,
       "price": 14.45
     },
     {
       "id": 8,
-      "name": "Pineapple",
+      "topping": "Pineapple",
       "size": "Medium",
       "vegetarian": true,
       "price": 12.94
     },
     {
       "id": 9,
-      "name": "Salami",
+      "topping": "Salami",
       "size": "Large",
       "vegetarian": false,
       "price": 14.56
     },
     {
       "id": 10,
-      "name": "Chicken",
+      "topping": "Chicken",
       "size": "Large",
       "vegetarian": true,
       "price": 18.07

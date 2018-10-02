@@ -24,9 +24,9 @@ class App extends Component {
 
   onType = (event) => {
     // console.log(event.target.value);
-    const pizzaName = event.target.value
+    const pizzaTopping = event.target.value
     this.setState((prevState)=> {
-      return {pizza: {...prevState.pizza, name: pizzaName}}
+      return {pizza: {...prevState.pizza, topping: pizzaTopping}}
     })
   }
 
