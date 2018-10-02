@@ -1,0 +1,64 @@
+{"pizzas":
+  [
+    { "id": 1,
+      "name": "Plain",
+      "size": "Small",
+      "vegetarian": true,
+      "price": 10.99
+    },
+    { "id": 2,
+      "name": "Pepperoni",
+      "size": "Small",
+      "vegetarian": false,
+      "price": 12.34
+    },
+    { "id": 3,
+      "name": "Mushroom",
+      "size": "Small",
+      "vegetarian": true,
+      "price": 13.37
+    },
+    { "id": 4,
+      "name": "Sausage",
+      "size": "Small",
+      "vegetarian": false,
+      "price": 17.91
+    },
+    { "id": 5,
+      "name": "Bacon",
+      "size": "Medium",
+      "vegetarian": false,
+      "price": 16.21
+    },
+    { "id": 6,
+      "name": "Spinach",
+      "size": "Medium",
+      "vegetarian": true,
+      "price": 14.23
+    },
+    { "id": 7,
+      "name": "Black Olive",
+      "size": "Medium",
+      "vegetarian": true,
+      "price": 14.45
+    },
+    { "id": 8,
+      "name": "Pineapple",
+      "size": "Medium",
+      "vegetarian": true,
+      "price": 12.94
+    },
+    { "id": 9,
+      "name": "Salami",
+      "size": "Large",
+      "vegetarian": false,
+      "price": 14.56
+    },
+    { "id": 10,
+      "name": "Chicken",
+      "size": "Large",
+      "vegetarian": true,
+      "price": 18.07
+    }
+  ]
+}
