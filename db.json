@@ -3,52 +3,52 @@
     { "id": 1,
       "topping": "Plain",
       "size": "Small",
-      "vegetarian": true,
+      "vegetarian": true
     },
     { "id": 2,
       "topping": "Pepperoni",
       "size": "Small",
-      "vegetarian": false,
+      "vegetarian": false
     },
     { "id": 3,
       "topping": "Mushroom",
       "size": "Small",
-      "vegetarian": true,
+      "vegetarian": true
     },
     { "id": 4,
       "topping": "Sausage",
       "size": "Small",
-      "vegetarian": false,
+      "vegetarian": false
     },
     { "id": 5,
       "topping": "Bacon",
       "size": "Medium",
-      "vegetarian": false,
+      "vegetarian": false
     },
     { "id": 6,
       "topping": "Spinach",
       "size": "Medium",
-      "vegetarian": true,
+      "vegetarian": true
     },
     { "id": 7,
       "topping": "Black Olive",
       "size": "Medium",
-      "vegetarian": true,
+      "vegetarian": true
     },
     { "id": 8,
       "topping": "Pineapple",
       "size": "Medium",
-      "vegetarian": true,
+      "vegetarian": true
     },
     { "id": 9,
       "topping": "Salami",
       "size": "Large",
-      "vegetarian": false,
+      "vegetarian": false
     },
     { "id": 10,
       "topping": "Chicken",
       "size": "Large",
-      "vegetarian": true,
+      "vegetarian": true
     }
   ]
 }
